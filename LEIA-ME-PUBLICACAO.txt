@@ -1,0 +1,20 @@
+MENTE EM AÇÃO — PROJETO ANDROID STUDIO + WEB
+
+Incluído: 10 aventuras, 80 fases, narração por síntese de voz do aparelho, toque e arrastar figuras até a estrela, pontuação e progresso local.
+
+Este pacote NÃO é um AAB/APK assinado nem está pronto para envio imediato à Google Play.
+
+Para compilar:
+1. Instalar Android Studio oficial e Android SDK compatível.
+2. Abrir esta pasta como projeto Gradle; aguardar sincronização.
+3. Executar em aparelho Android e verificar narração pt-BR, arrastar/toque, navegação, reinício e armazenamento.
+4. Revisar e atualizar compileSdk/targetSdk, versões Gradle e exigências atuais da Play.
+5. Preparar imagens de loja, descrição, ícone final, URL pública de política de privacidade, declaração de segurança de dados e classificação etária/famílias.
+6. Gerar AAB de lançamento assinado com chave própria (Build > Generate Signed Bundle / APK), guardar chave em segurança.
+7. Fazer testes exigidos para o tipo de conta e enviar pelo Play Console para revisão.
+
+A versão atual é uma base funcional, não um produto final auditado. O conteúdo pedagógico religioso deve ser revisado por educadores/responsáveis e os recursos de acessibilidade e privacidade devem ser testados em dispositivos reais.
+
+IMPORTANTE: As fases ainda utilizam figuras emoji e cenas ilustrativas gerais; não contêm 80 animações exclusivas. A atividade de arrastar funciona em navegadores com suporte a arrastar e soltar, e possui toque como alternativa.
+
+VERSÃO VISUAL: ilustrações temáticas, toque/arrastar e seleção de voz. Ainda precisa de compilação, testes e assinatura AAB.
