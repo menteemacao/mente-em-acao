@@ -1,0 +1,7 @@
+MENTE EM AÇÃO INFANTIL — ISKAI V4
+
+TESTAR: extraia o ZIP e abra index.html. Para testar offline/PWA use servidor local.
+PUBLICAR: depois de testar, faça backup do repositório mente-em-acao; envie index.html, data.js, sw.js, manifest.webmanifest e a pasta assets (preservando sua estrutura) à raiz do repositório GitHub Pages. O link atual continuará o mesmo.
+A voz gravada da Iskai é usada na abertura; narração das fases ainda depende de uma voz feminina pt-BR disponível no dispositivo, caso contrário a leitura automática não é iniciada.
+Imagens ilustrativas aprovadas anteriormente e arquivos de áudio fornecidos pelo usuário.
+O conteúdo de respostas foi inferido de roteiros prévios e requer revisão pedagógica antes da divulgação pública.
